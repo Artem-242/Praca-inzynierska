@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="o22G-WvY567yEm8TiPJw">
+    <mxGraphModel dx="2008" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9FrizqPEJORfo4-zTWMR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Aplikacja do komunikacji użytkowników w czasie rzeczywistym&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="500" width="700" x="1348.285784040179" y="566.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-4" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.administrator;" value="" vertex="1">
+          <mxGeometry height="56" width="58" x="1670.285784040179" y="1096.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-5" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="1238.285784040179" y="756.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-8" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" value="" vertex="1">
+          <mxGeometry height="59" width="59" x="2099.285784040179" y="756.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Administrator" vertex="1">
+          <mxGeometry height="30" width="60" x="1668.285784040179" y="1156.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Uzytkownik&amp;nbsp; niezalogowany" vertex="1">
+          <mxGeometry height="30" width="60" x="1238.285784040179" y="826.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Uzytkownik zalogowany" vertex="1">
+          <mxGeometry height="30" width="60" x="2109.995784040179" y="826.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Rejestracja" vertex="1">
+          <mxGeometry height="80" width="120" x="1378.285784040179" y="766.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Logowanie" vertex="1">
+          <mxGeometry height="80" width="120" x="1378.285784040179" y="646.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Wysylanie wiadomosci" vertex="1">
+          <mxGeometry height="80" width="120" x="1898.285784040179" y="836.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Przegladanie listy uzytkownikow" vertex="1">
+          <mxGeometry height="81" width="130" x="1893.285784040179" y="744.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Odbieranie wiadomosci" vertex="1">
+          <mxGeometry height="80" width="120" x="1898.285784040179" y="936.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Rozpoczynanie rozmowy" vertex="1">
+          <mxGeometry height="80" width="120" x="1898.285784040179" y="646.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Zarzadzanie uzytkownikami" vertex="1">
+          <mxGeometry height="80" width="120" x="1548.285784040179" y="871.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Dostęp do panelu administracyjnego" vertex="1">
+          <mxGeometry height="80" width="120" x="1708.285784040179" y="876.7142682756698" as="geometry" />
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="9FrizqPEJORfo4-zTWMR-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="817" />
+            </Array>
+            <mxPoint x="1298.29" y="816.71" as="sourcePoint" />
+            <mxPoint x="1348.29" y="766.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-32" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.039;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" target="9FrizqPEJORfo4-zTWMR-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1290" y="794.71" as="sourcePoint" />
+            <mxPoint x="1340" y="744.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-33" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.412;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" target="9FrizqPEJORfo4-zTWMR-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1700" y="1096.71" as="sourcePoint" />
+            <mxPoint x="1750" y="1046.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-34" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.684;entryY=0.958;entryDx=0;entryDy=0;entryPerimeter=0;" target="9FrizqPEJORfo4-zTWMR-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1692.01" y="1096.71" as="sourcePoint" />
+            <mxPoint x="1589.9957840401787" y="1071.2142682756696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-35" edge="1" parent="1" source="9FrizqPEJORfo4-zTWMR-19" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9FrizqPEJORfo4-zTWMR-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2010" y="800" as="sourcePoint" />
+            <mxPoint x="2060" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-36" edge="1" parent="1" source="9FrizqPEJORfo4-zTWMR-17" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9FrizqPEJORfo4-zTWMR-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2070" y="790" as="sourcePoint" />
+            <mxPoint x="2151" y="863" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-37" edge="1" parent="1" source="9FrizqPEJORfo4-zTWMR-16" style="endArrow=none;html=1;rounded=0;exitX=0.934;exitY=0.254;exitDx=0;exitDy=0;exitPerimeter=0;" target="9FrizqPEJORfo4-zTWMR-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2060" y="830" as="sourcePoint" />
+            <mxPoint x="2136" y="831" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FrizqPEJORfo4-zTWMR-39" edge="1" parent="1" source="9FrizqPEJORfo4-zTWMR-18" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="9FrizqPEJORfo4-zTWMR-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2120" y="890" as="sourcePoint" />
+            <mxPoint x="2196" y="891" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
